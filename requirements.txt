@@ -1,5 +1,3 @@
-kagglehub
-imbalanced-learn
 joblib
 pandas
 scikit-learn
