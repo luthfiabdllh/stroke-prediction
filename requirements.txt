@@ -1,0 +1,7 @@
+kagglehub
+imbalanced-learn
+joblib
+pandas
+scikit-learn
+flask
+flask-cors
